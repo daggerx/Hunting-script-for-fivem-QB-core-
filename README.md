@@ -3,7 +3,7 @@ This script create hunting job in your server .
 ### INSTALL ###
 
 1) Customise `config.lua` to your liking
-2) Drag and drop `boii-hunting` into your server resources ensureing any requirements first
+2) Drag and drop `hunting` into your server resources ensureing any requirements first
 3) Insert item information provided into your `qb-core/shared/items.lua`
 4) Insert images provided into your `qb-inventory/html/images`
 5) If you want to use a hunting license then follow the information provided on how to add the hunting license into your city and make it so police can grant
